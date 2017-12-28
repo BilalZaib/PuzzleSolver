@@ -1,6 +1,5 @@
 /**
  * 
- * @author zeli,zli48, 676755673
  * the basic square information
  *
  */

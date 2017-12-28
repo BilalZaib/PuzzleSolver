@@ -1,6 +1,5 @@
 /**
  *implementation of 15 puzzle solver
- * @author zeli, zli48, 676755673
  *
  *NOTE: This program assumes the empty square at the topleft corner the goal
  *

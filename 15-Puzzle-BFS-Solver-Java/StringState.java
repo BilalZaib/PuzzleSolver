@@ -1,6 +1,4 @@
 /**
- * 
- * @author zeli,zli48, 676755673
  *This class is used to convert State into String so it will be used 
  *for the hashing in Solver and DFSolver
  */

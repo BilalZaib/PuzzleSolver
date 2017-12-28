@@ -1,11 +1,4 @@
-﻿/*
-* Ze Li, zli48, 676755673
-*/
-
-
-
-
-This program is written in Java. This program solves the 15-puzzle using BFS and iterative deepening depth-first search. It supports two goal states
+﻿This program is written in Java. This program solves the 15-puzzle using BFS and iterative deepening depth-first search. It supports two goal states
 0 1 2 3 		1 2 3 4
 4 5 6 7			5 6 7 8
 8 9 A B			9 A B C

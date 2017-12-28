@@ -1,7 +1,5 @@
 /**
  * BFS implementation of 15 puzzle solver
- * @author zeli
- *
  */
 import java.util.*;
 public class State {
